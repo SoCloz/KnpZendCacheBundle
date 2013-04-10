@@ -1,5 +1,5 @@
 {
-    "name":        "knplabs/knp-zend-cache-bundle",
+    "name":        "socloz/knp-zend-cache-bundle",
     "type":        "symfony-bundle",
     "description": "Integrates Zend Cache framework into Symfony2.",
     "keywords":    ["zend", "cache", "knplabs", "knp", "bundle"],
